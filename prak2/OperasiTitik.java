@@ -1,4 +1,9 @@
-/*Dhiya Ulhaq 24060121140134*/
+/**
+ * File      : OperasiTitik.java		01/03/23
+ * Penulis   : Dhiya Ulhaq
+ * Deskripsi : Kelas OperasiTitik
+ * 
+ */
 class OperasiTitik{
 	private void refleksiSumbuX(Titik titik){
 		double ordinat = titik.getOrdinat();
