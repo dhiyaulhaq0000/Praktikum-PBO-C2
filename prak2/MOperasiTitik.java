@@ -1,3 +1,4 @@
+/*Dhiya Ulhaq 24060121140134*/
 class MOperasiTitik{
 	public static void main(String[]args){
 		Titik t1 = new Titik(1.0, 2.0);
