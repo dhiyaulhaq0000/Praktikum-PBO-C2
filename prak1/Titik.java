@@ -1,3 +1,4 @@
+/*Dhiya Ulhaq 24060121140134*/
 class Titik{
 	double absis;
 	double ordinat;
