@@ -1,4 +1,9 @@
-/*Dhiya Ulhaq 24060121140134*/
+/**
+ * File      : Titik.java		01/03/23
+ * Penulis   : Dhiya Ulhaq
+ * Deskripsi : Kelas Titik
+ * 
+ */
 class Titik{
 	private double absis;
 	private double ordinat;
