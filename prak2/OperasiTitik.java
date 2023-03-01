@@ -1,3 +1,4 @@
+/*Dhiya Ulhaq 24060121140134*/
 class OperasiTitik{
 	private void refleksiSumbuX(Titik titik){
 		double ordinat = titik.getOrdinat();
